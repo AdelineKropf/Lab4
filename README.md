@@ -16,8 +16,8 @@ the constraints file maps your inputs and outputs to real pins on the FPGA.
 ## Lab Questions
 
 ### 1 - Explain the role of the Top Level file.
-
+        Allows you to combine the circuits.
 ### 2 - Explain the function of the Constraints file.
-
+        The constraint file allows the connection between the FPGA and Vivado, essentially it connects the hardware to the software.
 ### 3 - Was the selection of Minterm and Maxterm correct for each circuit? What would you have chosen?
-
+        
